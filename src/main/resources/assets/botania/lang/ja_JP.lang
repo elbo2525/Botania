@@ -55,7 +55,7 @@ botaniamisc.spawnerTip=Tip: スポーンエッグを使うとモブを変えら�
 botaniamisc.shardLevel=シャードパワー %s
 botaniamisc.lexiconIndex=索引
 botaniamisc.hasIvy=Has Timeless Ivy
-botaniamisc.shareMsg=[{"text":"%name%","color":"light_purple"},{"text”:”ボタニア植物辞典”,”color":"green","hoverEvent":{"action":"show_text","value":{"text”:”本と苗木からクラフト出来ます!”,”color":"aqua”}}},{“text":" を共有しました。 ","color":"blue"},{"text":" クリックで見る: ","color":"blue"},{"text":"[%entryname%]","color":"green","clickEvent":{"action":"run_command","value":"/botania-open %entry%"},"hoverEvent":{"action":"show_text","value":{"text”:”これを読むにはクリックをしてください","color":"aqua"}}}]
+botaniamisc.shareMsg=[{"text":"%name%","color":"light_purple"},{"text":"ボタニア植物辞典","color":"green","hoverEvent":{"action":"show_text","value":{"text":"本と苗木からクラフト出来ます!","color":"aqua"}}},{"text":" を共有しました。 ","color":"blue"},{"text":" クリックで見る: ","color":"blue"},{"text":"[%entryname%]","color":"green","clickEvent":{"action":"run_command","value":"/botania-open %entry%"},"hoverEvent":{"action":"show_text","value":{"text":"これを読むにはクリックをしてください","color":"aqua"}}}]
 botaniamisc.noLexicon=これを読むには、ボタニア植物辞典を手に持ってください
 botaniamisc.cantOpen=ボタニア植物辞典にはこのページはないようです。外部ソース・・・？
 botaniamisc.clickToShare=共有
@@ -307,7 +307,7 @@ achievement.botania:enderAirMake.desc=エンダー空気瓶を集める
 achievement.botania:corporeaCraft=drop pop candy
 achievement.botania:corporeaCraft.desc=コーポリア・ネットワークに役立つブロックをクラフトする
 achievement.botania:cacophoniumCraft=ノイジーラバーソウル
-achievement.botania:cacophoniumCraft.desc=カコフォニウムをクラフトして、嫌いなアイツを静かに怒らせよう
+achievement.botania:cacophoniumCraft.desc=カコフォニアムをクラフトして、嫌いなアイツを静かに怒らせよう
 achievement.botania:manaCartCraft=ハウトゥー世界征服
 achievement.botania:manaCartCraft.desc=長距離マナ輸送のためにマナプールトロッコをクラフトする
 achievement.botania:craftingHaloCraft=Segments Blue
@@ -317,7 +317,7 @@ achievement.botania:manaweaveArmorCraft.desc=杖をパワーアップさせる�
 achievement.botania:enchanterMake=ODDS ＆ ENDS
 achievement.botania:enchanterMake.desc=エンチャントを制御するための、マナエンチャンターをクラフトする
 achievement.botania:pollidisiacPickup=ロミオとシンデレラ
-achievement.botania:pollidisiacPickup.desc=ポリディシエクをクラフトして、動物を繁殖させる
+achievement.botania:pollidisiacPickup.desc=ポリディジアクをクラフトして、動物を繁殖させる
 achievement.botania:brewPickup=オサナナブルー
 achievement.botania:brewPickup.desc=ボタニア醸造台をクラフトして、なんでもいいから醸造する
 achievement.botania:terraformRodCraft=ワールドイズマイン
@@ -397,8 +397,8 @@ botania.challenge.animalFarm=動物農場
 botania.challenge.animalFarm.desc=飼育可能な全動物の自動農 場をつくる。<br>ボーナスポイント:餌を自 動で与えてくれる。
 botania.challenge.boneMealFarm=骨粉式促成作物
 botania.challenge.boneMealFarm.desc=必要に応じて高速で作物を 育てる、骨粉を利用した自 動農場を作る。<br>ボーナスポイント:野生の ドラムを使わない。
-botania.challenge.orechid=オアチドの自動化
-botania.challenge.orechid.desc=オアチド花の機能を自動で 使用するシステムを作る。<br>ボーナスポイント:作成物 が自動で精錬・分類される 。
+botania.challenge.orechid=オアキドの自動化
+botania.challenge.orechid.desc=オアキド花の機能を自動で 使用するシステムを作る。<br>ボーナスポイント:作成物 が自動で精錬・分類される 。
 botania.challenge.mobTower=トラップタワー
 botania.challenge.mobTower.desc=トラップタワーをつくる。 モブが分類され、特定の部 屋に入るようにする。スポ ナー使用可。<br>ボーナスポイント:プレイ ヤーの干渉無しで100%効 率で機能する。
 
@@ -946,7 +946,7 @@ tile.botania:buriedPetals0.name=埋もれた白色の花びら
 tile.botania:buriedPetals1.name=埋もれた橙色の花びら
 tile.botania:buriedPetals2.name=埋もれた赤紫色の花びら
 tile.botania:buriedPetals3.name=埋もれた空色の花びら
-tile.botania:buriedPetals4.name=埋もれた黃色の花びら
+tile.botania:buriedPetals4.name=埋もれた黄色の花びら
 tile.botania:buriedPetals5.name=埋もれた黄緑色の花びら
 tile.botania:buriedPetals6.name=埋もれた桃色の花びら
 tile.botania:buriedPetals7.name=埋もれた灰色の花びら
@@ -958,7 +958,7 @@ tile.botania:buriedPetals12.name=埋もれた茶色の花びら
 tile.botania:buriedPetals13.name=埋もれた緑色の花びら
 tile.botania:buriedPetals14.name=埋もれた赤色の花びら
 tile.botania:buriedPetals15.name=埋もれた黒色の花びら
-tile.botania:cacophoniumBlock.name=カコフォニウムブロック
+tile.botania:cacophoniumBlock.name=カコフォニアムブロック
 tile.botania:bellows.name=マナ流ふいご
 tile.botania:bifrost.name=一時的な虹ブロック
 tile.botania:bifrostPerm.name=虹ブロック
@@ -1051,7 +1051,7 @@ tile.botania:flower.kekimurus.name=ケキムラス
 tile.botania:flower.kekimurus.reference=この花は嘘
 tile.botania:flower.gourmaryllis.name=ガーマリリス
 tile.botania:flower.gourmaryllis.reference=不愉快です
-tile.botania:flower.narslimmus.name=ナースリマス
+tile.botania:flower.narslimmus.name=ナースライムス
 tile.botania:flower.narslimmus.reference=なにこれ？ベタベタする
 tile.botania:flower.spectrolus.name=スペクトロラス
 tile.botania:flower.spectrolus.reference=憎悪を力に
@@ -1073,12 +1073,12 @@ tile.botania:flower.tigerseye.name=タイガーズアイ
 tile.botania:flower.tigerseye.reference=手乗りタイガー
 tile.botania:flower.jadedAmaranthus.name=ジェイディッド・アマランサス
 tile.botania:flower.jadedAmaranthus.reference=あるカップルはこれで死んだ
-tile.botania:flower.orechid.name=オアチド
+tile.botania:flower.orechid.name=オアキド
 tile.botania:flower.orechid.reference=君がやったのはわかったよ
-tile.botania:flower.orechidIgnem.name=オアチド・イグネム
+tile.botania:flower.orechidIgnem.name=オアキド・イグネム
 tile.botania:flower.orechidIgnem.reference=バラのように赤い
 tile.botania:flower.fallenKanade.name=フォーレン・カナデ
-tile.botania:flower.fallenKanade.reference=わたしは天使なんかじゃないわ
+tile.botania:flower.fallenKanade.reference=あたしは天使なんかじゃないわ
 tile.botania:flower.exoflame.name=エクソフレイム
 tile.botania:flower.exoflame.reference=黒のリボンをつけている
 tile.botania:flower.agricarnation.name=アグリカーネーション
@@ -1093,13 +1093,13 @@ tile.botania:flower.tangleberrie.name=タングルベリー
 tile.botania:flower.tangleberrie.reference=フライパン禁止
 tile.botania:flower.jiyuulia.name=ジユーリア
 tile.botania:flower.jiyuulia.reference=フリューゲル・デア・フライハイト(自由の翼)
-tile.botania:flower.rannuncarpus.name=ラナンカルパス
+tile.botania:flower.rannuncarpus.name=ラナンカーパス
 tile.botania:flower.rannuncarpus.reference=手のひらサイズ
-tile.botania:flower.rannuncarpusChibi.name=ラナンカルパス・プチ
+tile.botania:flower.rannuncarpusChibi.name=ラナンカーパス・プチ
 tile.botania:flower.rannuncarpusChibi.reference=手のひらサイズ
 tile.botania:flower.hyacidus.name=ヒヤシダス
 tile.botania:flower.hyacidus.reference=歩かなければ、毒を受けない
-tile.botania:flower.pollidisiac.name=ポリディシエク
+tile.botania:flower.pollidisiac.name=ポリディジアク
 tile.botania:flower.pollidisiac.reference=鳥とハチと
 tile.botania:flower.clayconia.name=クレイコニア
 tile.botania:flower.clayconia.reference=ルピーは入っていません
@@ -1113,7 +1113,7 @@ tile.botania:flower.vinculotus.name=ヴィンキュロタス
 tile.botania:flower.vinculotus.reference=ExtraUtilitiesの完全にパクリ
 tile.botania:flower.spectranthemum.name=スペクトランセマム
 tile.botania:flower.spectranthemum.reference=攻殻のなかに
-tile.botania:flower.medumone.name=メデュモーネ
+tile.botania:flower.medumone.name=メデュモネ
 tile.botania:flower.medumone.reference=それはもとより神だった
 tile.botania:flower.marimorphosis.name=マリモルフォシス
 tile.botania:flower.marimorphosis.reference=UMR!UMR!
@@ -1284,7 +1284,7 @@ item.botania:reachRing.name=広範の指輪
 item.botania:terraPick.name=テラシャッタラー
 item.botania:divaCharm.name=歌姫のお守り
 item.botania:flightTiara.name=フリューゲルのティアラ
-item.botania:enderDagger.name=ソウルスクライブs
+item.botania:enderDagger.name=ソウルスクライブ
 item.botania:quartz0.name=煙がかったクォーツ
 item.botania:quartz1.name=マナクォーツ
 item.botania:quartz2.name=ブレイズクォーツ
@@ -1441,7 +1441,7 @@ item.botania:root.name=リビングルート
 item.botania:pebble.name=小石
 item.botania:waterBowl.name=水の入ったボウル
 item.botania:obedienceStick.name=花の指揮棒
-item.botania:cacophonium.name=カコフォニウム
+item.botania:cacophonium.name=カコフォニアム
 item.botania:slimeBottle.name=ボトル入りスライム
 item.botania:starSword.name=スターコーラー
 item.botania:exchangeRod.name=地殻変動の杖
@@ -1576,3 +1576,237 @@ botania.page.runeAltar16=&1怠惰のルーン&0
 botania.page.runeAltar17=&1憤怒のルーン&0
 botania.page.runeAltar18=&1嫉妬のルーン&0
 botania.page.runeAltar19=&1高慢のルーン&0
+
+# -- TERRASTEEL
+
+# -- BLACK LOTUS
+
+# -- FLOWER POUCH
+
+# -- WRAP
+
+# - MANA
+# -- AN INTRODUCTION TO MANA
+
+# -- MANA SPREADER
+
+# -- MANA POOL
+
+# -- SPARKS
+
+# -- SPARK AUGMENTATION
+
+# -- MANA DISTRIBUTOR
+
+# -- MANA VOID
+
+# -- MANA FLUXFIELD
+
+# -- MANA LENSES
+
+# -- MANA TABLET
+
+# -- MANA MIRROR
+
+# -- MANA DETECTOR
+
+# -- PULSE MANA SPREADER
+
+# -- MANASTAR
+
+# -- ELVEN MANA SPREADERS
+
+# -- ELVEN MANA LENSES
+
+# -- MANA PRISM
+
+# -- MANA ON RAILS
+
+# -- SPARK TINKERER
+
+# -- MANATIDE BELLOWS
+
+# - FUNCTIONAL FLOWERS
+# -- AN INTRODUCTION TO FUNCTION
+
+# -- FLOWER SHRINKING
+
+# -- MODULATING DELAY
+
+# -- JADED AMARANTHUS
+
+# -- BELLETHRONE
+
+# -- DREADTHORNE
+
+# -- HEISEI DREAM
+
+# -- TIGERSEYE
+
+# -- ORECHID
+
+# -- ORECHID IGNEM
+
+# -- FALLEN KANADE
+
+# -- EXOFLAME
+
+# -- AGRICARNATION
+
+# -- HOPPERHOCK
+
+# -- TANGLEBERRIE
+
+# -- JIYUULIA
+
+# -- RANNUNCARPUS
+
+# -- HYACIDUS
+
+# -- POLLIDISIAC
+
+# -- CLAYCONIA
+
+# -- LOONIUM
+
+# -- DAFFOMILL
+
+# -- VINCULOTUS
+
+# -- SPECTRANTHEMUM
+
+# -- MEDUMONE
+
+# -- MARIMORPHOSIS
+
+# -- BUBBELL
+
+# -- SOLEGNOLIA
+
+# - GENERATING FLOWERS
+# -- AN INTRODUCTION TO GENERATION
+botania.entry.gIntro=マナの生成について
+botania.tagline.gIntro=資源を消費してマナを生み出す花
+botania.page.gIntro0=&4マナの生成&0は、全てのボタ ニストにとって最優先すべ きことだ。幸運にも、多様 な&4マナを生み出す花&0がその ために働いてくれる。<br>これらの花は名前のとおり 受動的もしくは能動的に&4マ ナ&0を生み出す。特に断りの ない限り、全ての&4マナを生 み出す花&0は特定の状況での み&4マナ&0を生み出す。
+botania.page.gIntro1=全ての&4マナを生み出す花&0は &4機能を持つ花&0と同様に少量 の&4マナ&0を貯めるバッファを 持つ。<br>&4マナ&0測定値の読み方の基本 ルールとして、&1森の杖&0で右 クリックするとマナの測定 値を更新できる。<br>このマナは最も近くにある &1マナ送信機&0へ貯められる。
+botania.page.gIntro2=これらの花はどの&1マナ送信 機&0へ&4マナ&0を入れるべきかを 覚えている。これは重要な ので覚えておいてほしい。 花は設置されたときに最も 近くにあるマナ送信機にの みマナを貯める。他のマナ 送信機へは貯めない。&4接続 モード&0の杖を使えば他のマ ナ送信機に紐付けられる。
+
+# -- CAVEATS OF PASSIVE GENERATION
+botania.entry.passiveGen=受動的な生成の注意
+botania.tagline.passiveGen=無料のものか、優れたものか、どちらかを選べ
+botania.page.passiveGen0=あらゆる&4マナを生み出す花&0 は、2つのグループに整理 できる。&4受動的&0と&4能動的&0だ 。<br>&4受動的にマナを生成する花&0 は、太陽や水などの完全に 無料の資源を使って単純に &4マナ&0を生み出す。&4能動的に マナを生成する花&0は、&4マナ&0 に変換するための (再生可 能、もしくは再生不可能な ) 資源を必要とする。
+botania.page.passiveGen1=ボタニストを始めるには、 非常に基本的で初歩的な&4受 動的にマナを生成する花&0で ある、&1デイブルーム&0や&1ナイ トシェイド&0などを利用でき る。<br>これらの花は、より強力で 効果的な&4能動的にマナを生 成する花&0へ進むために必須 である。しかし、これらは あくまで踏み台として頼る べきだ。全ての&4受動的にマ ナを生成する花&0は3日間働 くと&1枯れ木&0になってしまう 。
+
+# -- PRIMUS LOCI
+botania.entry.primusLoci=プリマス変異種
+botania.tagline.primusLoci=枯れないようになった稀少な花
+botania.page.primusLoci0=旅の途中、&1デイブルーム&0と &1ナイトシェイド&0によく似た 珍しい花パッチに遭遇する ことがある。<br>これは&4プリマス変異種&0と呼 ばれ稀に発生する。2種の 特別なマナを生成する花、 &1デイブルーム・プリマス&0と &1ナイトシェイド・プリマス&0 が現れうる。
+botania.page.primusLoci1=これらの花は通常の&1デイブ ルーム&0や&1ナイトシェイド&0と 同じように働く。ただし彼 らはマナを少し速く生成し 、そして枯れない。駆け出 しボタニストがキャンプを 立ち上げるために素晴らし い発見となる。<br>プリマス変異種は非常に不 安定なため、彼らの自生地 から移動させようとすると 、死んでしまう。
+
+# -- DAYBLOOM
+botania.entry.daybloom=デイブルーム
+botania.tagline.daybloom=空からのマナ
+botania.page.daybloom0=&1デイブルーム&0は最も基本的 で初歩的な&4マナを生み出す 花&0だ。単に置けば、変異し た光合成により太陽光を&4マ ナ&0に変換する。<br>このプロセスは相当遅いが 、今は半ダース程度あれば 仕事をする。
+botania.page.daybloom1=&1デイブルーム&0は&4受動的にマ ナを生成する花&0に分類され る。つまりしばらく使うと 枯れる。<br>そもそも微かな量の&4マナ&0し か生まない。そのため&1エン ドフレイム&0や、その他の&1能 動的にマナを生成する花&0を 使えるようになったら早急 にアップグレードするのが よいだろう。
+botania.page.daybloom2=&o新しい朝が来た&r。
+
+# -- NIGHTSHADE
+botania.entry.nightshade=ナイトシェイド
+botania.tagline.nightshade=月からのマナ
+botania.page.nightshade0=&1ナイトシェイド&0は&1デイブル ーム&0の暗闇版で、&1デイブル ーム&0とは逆に、夜の間に受 動的に&4マナ&0を生み出す。<br>デイブルームと同じく、&4受 動的にマナを生成する花&0に 分類されるので、やがて枯 れる。
+botania.page.nightshade1=&oそして一日の影が&r。
+
+# -- ENDOFLAME
+botania.entry.endoflame=エンドフレイム
+botania.tagline.endoflame=燃料からのマナ
+botania.page.endoflame0=しばらくは&1デイブルーム&0で 十分だが、ボタニストはよ り効果的な&4マナ&0生成手段を 必要とする。<br>&1エンドフレイム&0はまさにそ れで、近くにドロップされ たかまど燃料になるアイテ ムやブロックを吸収し (た だし一度に1つだけ) 燃料 がなくなるまでの間、マナ を生成するために燃える。
+botania.page.endoflame1=しかし少し注意点があり、 &1エンドフレイム&0は副産物を 返す物は燃やさない。例え ば空の&1バケツ&0を副産物とし て返す&1溶岩バケツ&0だ。<br>さらに、花は&1石炭ブロック&0 4個分の燃料しか保持でき ない。それより燃焼時間が 長い個々の燃料が使われる と、最高効率は得られない だろう。
+botania.page.endoflame3=&1エンドフレイム&0は多くの場 合ボタニストが最初に自動 化する&4能動的にマナを生成 する花&0としてふさわしい。 いつまでも手動のままでい ないのがベストだろう。花 はドロップされたアイテム を必要とするので、&1開けた 木箱&0 (&4自然の器具&0のセクシ ョンにある) とちょっとし た仕組み (タイマーや感圧 板) が最適だろう。
+botania.page.endoflame2=&oニトロじゃないよ&r。
+
+# -- HYDROANGEAS
+botania.entry.hydroangeas=ハイドロエンゲス
+botania.tagline.hydroangeas=水からのマナ
+botania.page.hydroangeas0=&1ハイドロエンゲス&0は液体を 使ってマナを生成する。彼 らは周囲3x3の範囲で同じ 高さにある&1水源&0を吸い上げ 、&4マナ&0を生成する。生産量 は&1エンドフレーム&0に匹敵す る。また、&4雨&0の間は速く機 能するようだ。<br>&1ハイドロエンゲス&0は&4受動的 にマナを生成する花&0に分類 されるので、やがて枯れる。
+botania.page.hydroangeas2=簡単な&1ハイドロエンゲス&0の 施設
+botania.page.hydroangeas1=&o超次元から&r?
+
+# -- THERMALILY
+botania.entry.thermalily=サーマリリー
+botania.tagline.thermalily=溶岩からのマナ
+botania.page.thermalily0=&1サーマリリー&0は&1ハイドロエ ンゲス&0の&1溶岩&0版だ。予想さ れるように、花は周囲の同 じ高さにある&1溶岩&0を吸収し 、&4マナ&0を生成する。<br>&1溶岩&0を吸収した後、約45秒 の間&4マナ&0を生成する。その 後、再び&1溶岩&0を吸収できる ようになる前に、約5分の クールダウンを必要とする 。
+botania.page.thermalily2=アクティブな期間に&1サーマ リリー&0が生成する&4マナ&0の量 は、極めて高い。クイック ブーストが必要な場合、非 常に有用だ。<br>”クールダウン”期間中は、 花が&4溶岩&0を吸収しても&4マナ&0 を生成しない上に、最初か らカウントしなおすのでそ こから5分待つ必要がある 。
+botania.page.thermalily3=&1溶岩&0を&1ディスペンサー&0で配 置することは確かに可能だ が、&4ネザー&0や地下深くから それらを自動で集め、運ぶ のは全く別の話だ。<br>このように、&1サーマリリー&0 は”半自動化可能”な花に 分類される。
+botania.page.thermalily1=&o0108 Style&r。
+
+# -- ROSA ARCANA
+botania.entry.arcanerose=ローザ・アルカナ
+botania.tagline.arcanerose=経験値からのマナ
+botania.page.arcanerose0=&4経験値&0は魔法の一形態だ。 &1ローザ・アルカナ&0は周囲の 地表のプレイヤーの経験値 を吸収して、&1マナ&0に変える 。<br>しかしながら、床から生の 経験値オーブを吸収するこ とはできない。まずプレイ ヤーから吸収する。
+botania.page.arcanerose1=&oこのカードが召喚に成功し たとき、コイントスを1回 行う&r。
+
+# -- MUNCHDEW
+botania.entry.munchdew=マンチデュー
+botania.tagline.munchdew=葉からのマナ
+botania.page.munchdew0=自然エネルギーの&4マナ&0を、 他の生き物から生み出すの はかなりよいプロセスだ。 &1マンチデュー&0を使うと、近 くの&1葉ブロック&0をむしゃむ しゃと食べ尽くし、&4マナ&0に 変換する。<br>注意すべきことは、苗木や 他のアイテムが葉ブロック からドロップすることはな い。
+botania.page.munchdew1=この花は1本の木からかなり のマナを生成する。<br>しかしながら、全ての葉を 食べ尽くした後、しばらく 休憩となり、1分以上経た ないと再び食べられない。
+botania.page.munchdew2=&o晩飯奢れよ、柴崎&r。
+
+# -- ENTROPINNYUM
+botania.entry.entropinnyum=エントロピニウム
+botania.tagline.entropinnyum=TNTからのマナ
+botania.page.entropinnyum0=&4マナ&0の爆風を起こすには、 実際には、近くの爆風が必 要になる場合がある。&1エン トロピニウム&0の近くで&1TNT&0 を点火すると、それが水に 落ちない限り、爆風により 生じたエントロピーを吸収 し、多量の&4マナ&0を生むと同 時にダメージを無効化して しまう。最後に、爆風を吸 収するためには、花が&4マナ&0 を全く蓄積していないこと 。さもなくば変換プロセス は失敗するだろう。
+botania.page.entropinnyum1=&oクールガイは爆発に 振り返らない&r。
+
+# -- KEKIMURUS
+botania.entry.kekimurus=ケキムラス
+botania.tagline.kekimurus=ケーキからのマナ
+botania.page.kekimurus0=&1ケーキ&0は美味しい。誰もが 愛する。花も例外ではない 。<br>&1ケキムラス&0もそんな&1ケーキ&0 愛好家で、近くにある物は 全部食べてしまうだろう。 栄養は&4マナ&0に変換される。
+botania.page.kekimurus1=&otop kek&r
+
+# -- GOURMARYLLIS
+botania.entry.gourmaryllis=ガーマリリス
+botania.tagline.gourmaryllis=食物からのマナ
+botania.page.gourmaryllis0=&1ガーマリリス&0は腹ペコな花 だ。手近の食べ物を全部食 べてしまい、&4マナ&0に変換す る。<br>注意すべきことは、1度に 消化できる食べ物は1つだ けで、それが終わった時に &4マナ&0を生成する。もし他の 食べ物を見つけるとそれも 食べ尽くしてしまうが、そ こからマナを生成しない。
+botania.page.gourmaryllis1=消化する時間は栄養価に依 存する。分かりやすく言え ば、満腹度の回復量に依存 する。<br>そのため、&1ステーキ&0は4秒 で消化するし、&1ニンジン&0は 2秒だ。&1パン&0は2.5秒となる 。
+botania.page.gourmaryllis2=生成する&4マナ&0の量もこの値 を使う。しかし、より栄養 価の高い食べ物があるよう で、それはより効率的とな る。例えば、1枚の&1ステー キ&0は2本の&1ニンジン&0よりも 多くの&1マナ&0になる。総量も 、1秒あたりの量も、いず れも多くなる。
+botania.page.gourmaryllis3=&o私たちの新しい住人の ための鍋&r。
+
+# -- NARSLIMMUS
+botania.entry.narslimmus=ナースライムス
+botania.tagline.narslimmus=スライムからのマナ
+botania.page.narslimmus0=宇宙の未知のパワーの一種 が、&1スライム&0をランダムな 場所に生み出すようだ。人 はそれを&4スライムチャンク&0 と呼ぶ。&1ナースライムス&0は そのエネルギーを集められ る花だ。未知のパワーで生 み出された&1スライム&0のそば に設置されると、それを破 壊し、エントロピーから&4マ ナ&0を生成する。大きな&1スラ イム&0から、より多くの&4マナ&0 が作られる。また、少しベ タベタしている。
+botania.page.narslimmus1=&oゆっくりしていってね&r。
+
+# -- SPECTROLUS
+botania.entry.spectrolus=スペクトロラス
+botania.tagline.spectrolus=羊毛からのマナ
+botania.page.spectrolus0=&1スペクトロラス&0は様々な色 合いの&1羊毛&0を得に好む花だ 。近くにドロップされた全 ての&1羊毛&0ブロックを吸収し 、&4マナ&0を生み出す。<br>しかしながら、注意点があ る。それは欲しい色を選り 好みする。白から始まり、 1つの&1羊毛&0を吸収するたび スペクトル内の次の色に変 わっていく。
+botania.page.spectrolus1=それは周囲の全ての&1羊毛&0を 消費するが、それが欲しが る色の羊毛でしかマナを生 成しない。そのためデタラ メに&1羊毛&0を投げつけるのは もったいない。<br>それが次に吸収する適切な 色は、&1森の杖&0を花にかざす と分かる。
+botania.page.spectrolus2=&o虹を味わおう&r。
+
+# -- RAFFLOWSIA
+botania.entry.rafflowsia=ラフロージア
+botania.tagline.rafflowsia=花からのマナ
+botania.page.rafflowsia0=その昔、国家の農民は&1デイ ブルーム&0、&1ナイトシェイド&0 、そして&1ハイドロエンゲス&0 を広大な土地に植えること に喜びを見出していた。下 級市民は種々の基本要素か ら無償で&4マナ&0を得ることを 楽しんでいた。<br>彼らは無知だったので、幸 福だった。
+botania.page.rafflowsia1=しかしある日、民は彼らの ハードワークの結果が全て &1枯れ木&0となり、彼らの貴重 な庭園が枯れ果てたことで 目が覚めた。<br>神の裏切りに反抗し、国家 の人々は声を揃えて叫んだ : ”受動的にマナを生成す る花はもはや役立たない!”
+botania.page.rafflowsia2=そう信じられていた。ほど なく独創的な賢者が使えな いとされた花を利用できる 花のレシピを発見した。<br>この花は、それゆえ、&1ラフ ロージア&0と呼ばれた。
+botania.page.rafflowsia3=&1ラフロージア&0の機能は&1ケキ ムラス&0と似ているが、&4受動 的にマナを生成する花&0を使 う。近くの地面にあるそれ らを探し、破壊して&4マナ&0を 生成する。<br>しかしながら、この手順で はリターンが減っていく。 最も効果的に使用するため に、同じ種類の花を連続し て複数回破壊させるべきで はない。
+botania.page.rafflowsia4=&o新しい夜明け、とも言える&r 。
+
+# -- DANDELIFEON
+botania.entry.dandelifeon=ダンデライフオン
+botania.tagline.dandelifeon=命からのマナ
+botania.page.dandelifeon_w=注意: これは実験的な機能です。<br>将来的に変更される恐れが あります。入れ込みすぎな いようにしてください。
+botania.page.dandelifeon0=&1ダンデライフオン&0は心臓の 弱い人にはお勧めできない 花だ。<br>ボタニストのツールベルト の中のマナを生み出す花の うちで最も有用な花となる 可能性があるが、働かせる のが最も困難な花の1つで もある。
+botania.page.dandelifeon1=この花は&4ライフゲーム&0とし て知られるセルオートマト ンを利用する。この手順の ための領域は、&1ダンデライ フオン&0自身を中心とした 25x25の正方形だ。<br>花がレッドストーン信号を 受けている間、1秒に2ステ ップずつゲームを進める。
+botania.page.dandelifeon2=ゲームは&4細胞&0の概念で実行 される。25x25の領域は、 25の細胞が25列並んだグリ ッドとみなせる。<br>細胞は生存と死亡の2つの 状態を持つ。&1細胞ブロック&0 (後述) がある細胞は生存、 何もない細胞は死亡である 。各細胞の周囲8マスを&4隣 接細胞&0と呼ぶ。
+botania.page.dandelifeon3=ゲームの各ステップでは、 以下の変化が起こる: <br>&41)&0生存細胞は、周囲に生存 細胞が2～3個隣接していな ければ、死ぬ。 <br>&42)&0生存細胞は、周囲に生存 細胞が2～3個隣接していれ ば、次ステップも生存。<br>&43)&0死亡細胞は、生存細胞が ちょうど3隣接していれば 生存細胞になる。
+botania.page.dandelifeon4=全ての遷移は同時に起こる 。<br>以上を踏まえつつ、&1ダンデ ライフオン&0の手順には以降 のページで挙げているとお り&4ライフゲーム&0の典型的な シミュレーションにはない いくつかの追加ルールがあ る。
+botania.page.dandelifeon5=全ての細胞は0から始まる 年齢を持つ。生存細胞の周 囲に2～3の生存細胞があっ て生存し続ける時、1つ年 を取る。死亡細胞が生存細 胞に変わる時、新しい生存 細胞の年齢は、最も高齢の 隣人の年齢+1になる。60歳 以上の細胞は次のステップ で死亡する。
+botania.page.dandelifeon6=第二に、&1ダンデライフオン&0 の周囲3x3には、細胞が住 めない。この区画にできる はずだった生存細胞は、&4マ ナ&0に変わる。生まれるはず だった生存細胞が高齢であ るほど多くの&4マナ&0を生む。 0歳の細胞は&4マナ&0を生産し ない。
+botania.page.dandelifeon10=中心の3x3区画で生存細胞 が吸収されると、盤上の他 の細胞は全て死ぬ。<br>他のいくつかの制限は細胞 に適用され、例えば2つの 異なる&1ダンデライフオン&0が 同じ細胞に作用する場合、 細胞は死ぬ。最後に、&1ダン デライフオン&0以外の手段で 移動された細胞は、死ぬ。
+botania.page.dandelifeon7=&1細胞ブロック&0は&1サボテン&0、 &1ニンジン&0、&1ジャガイモ&0で作 られる。非常に脆く、一度 置いたら回収できず、&1ピス トン&0でも動かせない。また 、死亡細胞の周囲に3つの 生存細胞が隣接していても 、空気ブロック以外の場所 には生成されない場合があ る。<br>&1ダンデライフオン&0の効果範 囲でなければ、普通の建材 として機能する。
+botania.page.dandelifeon8=&oCellCraft^2&r。
+botania.page.dandelifeon9=&1細胞ブロック&0の作り方
+
